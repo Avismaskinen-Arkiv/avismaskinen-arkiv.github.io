@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkiv.avismaskinen.dk/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/madpakke/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/leverpostej/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/kringle/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/vindmoelle/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/frikadelle/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/blomme/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/rutsjebane/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/lakridspibe/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/nissehue/sitemap.xml
+Sitemap: https://arkiv.avismaskinen.dk/2000/forside/sitemap.xml
